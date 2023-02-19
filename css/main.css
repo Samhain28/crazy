@@ -7,7 +7,10 @@
 
 .container {
     color: black;
+    height: 1000px;
     background-color: #FFF;
+    background-repeat: no-repeat;
+    background-image: url(../img/zemo-zemo-dance.gif);
     
 }
 
@@ -21,3 +24,5 @@
     top: 1px;
     background-color: rgb(121, 77, 77);
 }
+
+
